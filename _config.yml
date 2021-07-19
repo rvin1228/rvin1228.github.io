@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/cybersec.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Personal Site" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -115,13 +115,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/aaarbiin"
+      url: "https://twitter.com/aaarbiin"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/rvin1228/"
+      url: "https://facebook.com/rvin1228/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/rvin1228/"
+      url: "https://github.com/rvin1228/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -131,13 +131,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/aaarbiin"
+      url: "https://twitter.com/aaarbiin"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/rvin1228/"
+      url: "https://facebook.com/rvin1228/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/rvin1228/"
+      url: "https://github.com/rvin1228/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
