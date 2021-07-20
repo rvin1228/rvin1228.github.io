@@ -1,11 +1,11 @@
 main:
   - title: "Articles"
-    url: /docs/quick-start-guide/
+    url: /articles/
   - title: "Works"
     url: https://rvin1228.wixsite.com/lol-info
   - title: "About"
-    url: /categories/
+    url: /about/
   - title: "Contact"
-    url: /collection-archive/
+    url: /contact/
   - title: "Resume"
     url: https://google.com
