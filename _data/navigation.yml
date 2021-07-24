@@ -4,7 +4,7 @@ main:
   - title: "Works"
     url: https://rvin1228.wixsite.com/lol-info
   - title: "About"
-    url: /about/
+    url: _pages/about.md
   - title: "Contact"
     url: /contact/
   - title: "Resume"
