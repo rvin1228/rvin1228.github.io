@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "rvin1228"
 title_separator          : "-"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
-name                     : "Arvin Legaspi"
+name                     : "Arvin Rafael Legaspi"
 description              : "Personal website"
 url                      : "https://rvin1228.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
