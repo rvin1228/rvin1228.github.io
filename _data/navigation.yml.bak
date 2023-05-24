@@ -6,4 +6,4 @@ main:
   - title: "About"
     url: _pages/about.md
   - title: "Contact"
-    url: mailto:legaspi.arvinrafael@gmail.com
+    url: /contact/
