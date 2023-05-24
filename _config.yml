@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Arvin Legaspi"
   avatar           : "/assets/images/me.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer engineering student."
+  bio              : "A computer engineer."
   location         : "Philippines"
   email            : "legaspi.arvinrafael@gmail.com"
   links:
